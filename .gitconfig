@@ -3,4 +3,4 @@
   email = "vancanh.ng@samsung.com"
 
 [init]
-	defaultBranch = main
+  defaultBranch = main
